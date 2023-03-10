@@ -168,7 +168,7 @@ ANIOMATION
 BANNER
 ---------------------------------*/
 .banner{
-    background-image: url('https://images.pexels.com/photos/3562689/pexels-photo-3562689.jpeg?auto=compress&cs=tinysrgb&w=600');
+    background-image: url("./1.jpg");
   background-color:#000;
   background-position: center;
   background-size: cover;
@@ -227,7 +227,7 @@ BANNER
 TYPE OF COFFEE
 ---------------------------------*/
 .sect--type{
-  background-image: url('https://images.pexels.com/photos/3847501/pexels-photo-3847501.jpeg?auto=compress&cs=tinysrgb&w=600');
+  background-image: url("./2.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -287,7 +287,7 @@ STORY
 2 HALF SECTION 
 ---------------------------------*/
 .half-sect__second {
-    background-image: url('https://images.pexels.com/photos/5846097/pexels-photo-5846097.jpeg?auto=compress&cs=tinysrgb&w=600');
+    background-image: url("./3.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -332,7 +332,7 @@ GREAT COFFEE
 THE BEST COFFEE SHOP
 ---------------------------------*/
 .sect--best {
-    background-image: url('https://images.pexels.com/photos/7031621/pexels-photo-7031621.jpeg');
+    background-image: url("./5.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -438,7 +438,7 @@ BLOG IMAGES
 }
 
 .article-pre-1 .article-pre__img {
-    background-image: url('https://images.pexels.com/photos/38293/workers-construction-site-hardhats-38293.jpeg?auto=compress&cs=tinysrgb&w=600');
+    background-image: url("./6.jpg");
 }
 
 .article-pre-2 .article-pre__img {
